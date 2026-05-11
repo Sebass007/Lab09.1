@@ -75,6 +75,7 @@ fun BarraSuperior() {
         colors = TopAppBarDefaults.centerAlignedTopAppBarColors(
             containerColor = MaterialTheme.colorScheme.primary
         )
+
     )
 }
 
